@@ -6,7 +6,7 @@ function Contact() {
             <h2>Have a question?</h2>
             
             <h4>Get in Touch!</h4>
-            <i class="bi bi-quote">I would love to hear from you</i>
+            <i className="bi bi-quote">I would love to hear from you</i>
 
             <hr/><br/>
             <form action="" method='get'>

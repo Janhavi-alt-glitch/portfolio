@@ -5,7 +5,7 @@ function Skills() {
       
       <h2><b>Key Skills</b></h2>
       
-      <i class="bi bi-quote">I know what I do...</i><hr/><br/>
+      <i className="bi bi-quote">I know what I do...</i><hr/><br/>
       
       <div className="card progress " style={{ height: "29px" }}>
         <div className="card-body progress-bar" style={{ width: "90%", backgroundColor: "#3F1651"}}>
