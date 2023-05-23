@@ -4,7 +4,7 @@ function Work() {
     <div classNameName='container' style={{ height: "100vh"}}>
       <h2><b>WORK</b></h2>
 
-      <i className="bi bi-quote">I know what I do...</i><hr /><br />
+      <i className="bi bi-quote">These experiences led to the skills...</i><hr /><br />
       <div className='container'style={{border: "2px solid #eee1ff", boxShadow:"2px 5px 10px #3F1651", borderRadius: "0px 50px", width: "60%", margin: "0 auto", background:"#eee1ff", paddingBottom:"2%"}}>
       <div className="container text-center work" style={{paddingLeft:"10%"}}>
         <div className="row">
