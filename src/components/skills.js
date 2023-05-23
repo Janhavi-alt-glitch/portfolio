@@ -9,32 +9,31 @@ function Skills() {
       
       <div className="card progress " style={{ height: "29px" }}>
         <div className="card-body progress-bar" style={{ width: "90%", backgroundColor: "#3F1651"}}>
-         HTML5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  90%
+         HTML5 
         </div>
       </div>
 
       <div className="card progress " style={{ height: "29px" }}>
         <div className="card-body progress-bar" style={{ width: "85%", backgroundColor: "#3F1651" }}>
-          CSS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 85%
+          CSS 
         </div>
       </div>
 
       <div className="card progress " style={{ height: "29px" }}><span></span>
         <div className="card-body progress-bar" style={{ width: "70%", backgroundColor: "#3F1651" }}>
-          Bootstrap 5 framework &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 70%
+          Bootstrap 5 framework
         </div>
       </div>
 
       <div className="card progress " style={{ height: "29px" }}>
         <div className="card-body progress-bar" style={{ width: "70%", backgroundColor: "#3F1651" }}>
-          Javascript &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;70%
+          Javascript
         </div>
       </div>
 
       <div className="card progress " style={{ height: "29px" }}>
         <div className="card-body progress-bar" style={{ width: "65%", backgroundColor: "#3F1651" }}>
-          ReactJS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 65%
-        </div>
+          ReactJS</div>
       </div>
       <div class="flex-container" >
         <div >
@@ -54,6 +53,9 @@ function Skills() {
         </div>
 
       </div>
+
+      <button type="button" class="btn " style={{backgroundColor:"#3F1651"}}>
+<i class="bi bi-download" style={{color:"white"}}>&nbsp; <b style={{color:"white"}}>Resume</b></i></button>
 
     </div>
 
